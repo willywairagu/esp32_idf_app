@@ -1,8 +1,8 @@
 /*
  * wifi_app.c
  *
- *  Created on: Oct 17, 2021
- *      Author: kjagu
+ *  Created on: 31/07/2022
+ *      Author: Wairagu wilberforce wahome
  */
 
 #include "freertos/FreeRTOS.h"

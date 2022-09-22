@@ -1,8 +1,9 @@
 /*
  * wifi_app.h
  *
- *  Created on: Oct 17, 2021
- *      Author: kjagu
+ *  Created on: 31/07/2022
+ *      Author: Wairagu wilberforce wahome
+
  */
 
 #ifndef MAIN_WIFI_APP_H_
