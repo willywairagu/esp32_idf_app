@@ -8,7 +8,7 @@ C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/flash.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/monitor.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/encrypted-flash.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/_project_elf_src.dir
-C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/esp32_idf_app_app.elf.dir
+C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/esp32_idf_app.elf.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/size.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/size-files.dir
 C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/CMakeFiles/size-components.dir

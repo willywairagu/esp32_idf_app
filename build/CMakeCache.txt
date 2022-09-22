@@ -121,7 +121,7 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_EXPORT_COMPILE_COMMANDS:UNINITIALIZED=ON
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/esp32_idf_app_app
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/esp32_idf_app
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Espressif/tools/xtensa-esp32-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ld.exe
@@ -165,7 +165,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=esp32_idf_app_app
+CMAKE_PROJECT_NAME:STATIC=esp32_idf_app
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Espressif/tools/xtensa-esp32-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib.exe
@@ -497,10 +497,10 @@ esp-idf_BINARY_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/b
 esp-idf_SOURCE_DIR:STATIC=C:/Users/Wilberforce/esp/esp-idf
 
 //Value Computed by CMake
-esp32_idf_app_app_BINARY_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build
+esp32_idf_app_BINARY_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build
 
 //Value Computed by CMake
-esp32_idf_app_app_SOURCE_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app
+esp32_idf_app_SOURCE_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app
 
 //Value Computed by CMake
 mbed TLS_BINARY_DIR:STATIC=C:/Users/Wilberforce/eclipse-workspace/esp32_idf_app/build/esp-idf/mbedtls/mbedtls
