@@ -1,9 +1,8 @@
 /*
  * http_server.c
  *
- *Created on: 31/07/2022
- *      Author: Wairagu wilberforce wahome
-
+ *  Created on: Oct 13, 2022
+ *      Author: wairagu
  */
 
 #include "esp_http_server.h"
@@ -108,6 +107,13 @@ static void http_server_monitor(void *parameter)
 					ESP_LOGI(TAG, "HTTP_MSG_WIFI_CONNECT_FAIL");
 
 					g_wifi_connect_status = HTTP_WIFI_STATUS_CONNECT_FAILED;
+
+					break;
+
+				case HTTP_MSG_WIFI_USER_DISCONNECT:
+					ESP_LOGI(TAG, "HTTP_MSG_WIFI_USER_DISCONNECT");
+
+					g_wifi_connect_status = HTTP_WIFI_STATUS_DISCONNECTED;
 
 					break;
 

@@ -1,9 +1,8 @@
 /*
  * wifi_app.h
  *
- *  Created on: 31/07/2022
- *      Author: Wairagu wilberforce wahome
-
+ *  Created on: Oct 13, 2022
+ *      Author: wairagu
  */
 
 #ifndef MAIN_WIFI_APP_H_
@@ -41,6 +40,7 @@ typedef enum wifi_app_message
 	WIFI_APP_MSG_CONNECTING_FROM_HTTP_SERVER,
 	WIFI_APP_MSG_STA_CONNECTED_GOT_IP,
 	WIFI_APP_MSG_USER_REQUESTED_STA_DISCONNECT,
+	WIFI_APP_MSG_LOAD_SAVED_CREDENTIALS,
 	WIFI_APP_MSG_STA_DISCONNECTED,
 } wifi_app_message_e;
 
